@@ -1,0 +1,2 @@
+TARGET= dna-seq-sort
+COMPILER_FLAGS += -Wno-sign-compare
